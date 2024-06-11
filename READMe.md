@@ -44,8 +44,8 @@
   <h2 id="setup-and-installation">Setup and Installation</h2>
   <ol>
     <li><strong>Clone the repository</strong>:
-      <pre><code>git clone https://github.com/yourusername/MiglaniHomeEssentials.git
-      cd MiglaniHomeEssentials</code></pre>
+      <pre><code>git clone https://github.com/deepanshum0408/Flask-E-commerce-website.git
+      </code></pre>
     </li>
     <li><strong>Create a virtual environment</strong>:
       <pre><code>python3 -m venv venv
