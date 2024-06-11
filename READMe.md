@@ -97,9 +97,9 @@
   <h2 id="mentor">Mentor</h2>
   <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
   Assistant Professor<br>
-  School of Computer Science, UPES, Dehradun<br>
+  School of Computer Science, UPES, Dehradun, India<br>
   Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
-  Dehradun, India</p>
+  </p>
   
  
   
